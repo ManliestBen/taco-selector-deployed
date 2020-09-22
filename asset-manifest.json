@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taco-selector-deployed/static/css/main.b6f34131.chunk.css",
+    "main.js": "/taco-selector-deployed/static/js/main.a5f9ff16.chunk.js",
+    "main.js.map": "/taco-selector-deployed/static/js/main.a5f9ff16.chunk.js.map",
+    "runtime-main.js": "/taco-selector-deployed/static/js/runtime-main.1b170d98.js",
+    "runtime-main.js.map": "/taco-selector-deployed/static/js/runtime-main.1b170d98.js.map",
+    "static/js/2.afe85b7a.chunk.js": "/taco-selector-deployed/static/js/2.afe85b7a.chunk.js",
+    "static/js/2.afe85b7a.chunk.js.map": "/taco-selector-deployed/static/js/2.afe85b7a.chunk.js.map",
+    "index.html": "/taco-selector-deployed/index.html",
+    "precache-manifest.c65e16e7d916ffbe40c7055f2566ce84.js": "/taco-selector-deployed/precache-manifest.c65e16e7d916ffbe40c7055f2566ce84.js",
+    "service-worker.js": "/taco-selector-deployed/service-worker.js",
+    "static/css/main.b6f34131.chunk.css.map": "/taco-selector-deployed/static/css/main.b6f34131.chunk.css.map",
+    "static/js/2.afe85b7a.chunk.js.LICENSE.txt": "/taco-selector-deployed/static/js/2.afe85b7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b170d98.js",
+    "static/js/2.afe85b7a.chunk.js",
+    "static/css/main.b6f34131.chunk.css",
+    "static/js/main.a5f9ff16.chunk.js"
+  ]
+}
